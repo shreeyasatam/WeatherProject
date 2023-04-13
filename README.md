@@ -1,5 +1,6 @@
 # WeatherProject
-A weather project was made to display real-time weather information from https://api.openweathermap.org.
-By entering a city name in the input area, a user can access data.
-I utilised the HTTPS GET technique to get weather data from an external server to my web server, and then I could present information to the user by using the POST method. I used the GET method to tap into the user input field.
-JavaScript, HTML, CSS, NodeJS, expressjs, and restful APIs are among the technologies used.
+• Developed a weather project to display real-time weather information from https://api.openweathermap.org
+• By entering a city name in the input field, the user can obtain weather information.
+• Employed the GET method to access the user input field
+• I have accessed data from an external server to my web server using the HTTPS GET method, and I then rendered information to the user using the POST method.
+
