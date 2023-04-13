@@ -4,3 +4,4 @@
 • Employed the GET method to access the user input field
 • I have accessed data from an external server to my web server using the HTTPS GET method, and I then rendered information to the user using the POST method.
 
+Technologies used- JavaScript, HTML, CSS, NodeJS, expressjs, Restful APIs
